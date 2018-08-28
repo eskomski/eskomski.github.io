@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/skomski
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://skomski.org
+  * I am skomski (https://keybase.io/skomski) on keybase.
+  * I have a public key with fingerprint 8F07 574E 06D5 23B7 FCA9  D8D1 F2F4 9E5C BE16 BB1C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012409bb5cabf3d3ff8159345b1f1bd1e25266343d7314a5b578228347bd91dd360a",
+            "fingerprint": "8f07574e06d523b7fca9d8d1f2f49e5cbe16bb1c",
+            "host": "keybase.io",
+            "key_id": "f2f49e5cbe16bb1c",
+            "kid": "01012409bb5cabf3d3ff8159345b1f1bd1e25266343d7314a5b578228347bd91dd360a",
+            "uid": "685c65026eda1ce046ca27e332077f19",
+            "username": "skomski"
+        },
+        "revoke": {
+            "sig_ids": [
+                "c114c274c5366ca845be967cb4702802e09b82305cd495cfe3a4f5b8c2d4f7e20f"
+            ]
+        },
+        "service": {
+            "hostname": "skomski.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1481140090,
+    "expire_in": 157680000,
+    "prev": "6c4dd2fe192e96c533bbdde5e77c518dd0c9dee532d1ea26d7fc9ccede31a491",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMJpAnicrZJdbBVFFMdv1RJobKzgZ6IGRmO01GY+d3YvPqolNBo0kFwEue7MnLnd
+XHr3uru9fFlr/KwmJtQgqfhBiMEEfOClfSylCEg1AaI0oiiJjRExJIg1GlCrs40+
+mPjovExm5n/+53fOmcOtVxdamsKf9k2dyW4Jmj6ZuNRXKC2vbNmKVGw2o+JWVIW5
+DTYYSLNyNTKoiDDBhHIcKCV0qCwzzFqfiIBxoYglyhCggnoe48xIRngolJA+pT7j
+UpmAGMM8HKIOZKNaBZJ6EtUyZ+tbLIXkgD0jKFPS6jAwviGWWh6A0AqIpxTRLrAn
+TvMIB6fCFDqj2N25Q3kO7z/0/zN335yd5wvtCUw9MCHRgLmnQyqBMYqltCTIhSkk
+tbAXnDqtxr1pNUL9HSiBRlyFvK1pVHHMKSquRZoQrqnkWjDPGfmOCQJPasUlpj6m
+4Lh9yrDQhgdCW2Aht0L5mhpuJVBs0RPO2yVsRHrOPG/Sv5N3xknFUdWTOIt1vME9
+9GRZPS3mUNnmeq7cCKr8t0dZRTXjJuQiGpCkUVxDReKUOotyU8J9h4xxgDsQbKpH
+CZSjXCGk52O38jzQyPukuTHUAgmoq8jVx5QyBgRIqQXxjcE6MACCUTeAkHrGTT7Q
+GgwwEvKAoLyqp2oxKgqHGVbyeqJKLcz6EkD9hw6uu6bQ1FKY13xV/nMLLQva/vnP
+m0rzC4PD554//+DS9iQrfbv7bXLd3R8+OXp6b/uauHCq/MfQezvpo0en0o+T5unJ
+jb/+8Pq+JeGIml396rqn3xw/0jNw9L5Pv4DfP7ph2/iJAxdbJ2dk65aZgdveuXTu
+eOuiFXsWvvJQ141icX1m5Qen+r+ZnN515Z7f+qYu7O8tLlJvdfX/sqDtpLpw+bX7
+R2/f8XUXGzn02K5Vn+38Xtx5R6kbne64vPjW2bGebvZjuvrE0PDYvD2N6eNvHHxx
+cNXCpXvff2nbz49feXaZ1S9ce+ymruGXzwxWr//zq/DLIyu+e/dsaaJ97OFlJ+vj
+j2xv271+ovnz7pvv2rFk5N54+TG/8/xZOzvwwDNrV44GQ89tvxj/BRoZYmQ=
+=xpOJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/skomski
+
+==================================================================
